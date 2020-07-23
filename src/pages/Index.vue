@@ -19,7 +19,7 @@ import Projects from './../components/landing/Projects'
 
 export default {
   metaInfo: {
-    title: 'Hello',
+    title: 'Hello, Hack!',
   },
   components: {
     Services,

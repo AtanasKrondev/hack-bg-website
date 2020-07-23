@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <b-container>
+    <b-container class="body-bg">
       <site-header />
       <router-view name="header"></router-view>
       <main>
@@ -12,15 +12,15 @@
   </div>
 </template>
 <script>
-import SiteFooter from '~/components/SiteFooter.vue'
-import SiteHeader from '~/components/SiteHeader.vue'
-import { FadeTransition } from 'vue2-transitions'
+import SiteFooter from "~/components/SiteFooter.vue";
+import SiteHeader from "~/components/SiteHeader.vue";
+import { FadeTransition } from "vue2-transitions";
 
 export default {
   components: {
     FadeTransition,
     SiteFooter,
-    SiteHeader,
-  },
-}
+    SiteHeader
+  }
+};
 </script>

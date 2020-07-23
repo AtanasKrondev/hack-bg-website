@@ -24,19 +24,23 @@
                 class="col-md-3 hack-slide-tab hack-slide1 hack-slide-tab-active"
                 data-index="1"
               >
-                Blockchain<br />Development
+                Blockchain
+                <br />Development
                 <div class="hack-tab-underline1"></div>
               </button>
               <button class="col-md-3 hack-slide-tab hack-slide2" data-index="2">
-                Smart Contracts<br />Development
+                Smart Contracts
+                <br />Development
                 <div class="hack-tab-underline2"></div>
               </button>
               <button class="col-md-3 hack-slide-tab hack-slide3" data-index="3">
-                Crowdsale<br />Services
+                Crowdsale
+                <br />Services
                 <div class="hack-tab-underline3"></div>
               </button>
               <button class="col-md-3 hack-slide-tab hack-slide4" data-index="4">
-                Blockchain<br />Consulting
+                Blockchain
+                <br />Consulting
                 <div class="hack-tab-underline4"></div>
               </button>
             </div>
@@ -50,9 +54,7 @@
                 <div class="slider-container">
                   <div class="slider-wrapper">
                     <div class="slider-slide slider-slide-1 active-slide">
-                      <h1>
-                        Private and Public Blockchain Development
-                      </h1>
+                      <h1>Private and Public Blockchain Development</h1>
                       <p>
                         Implement cryptography-based technologies to store immutable data. Public
                         shared ledgers like Ethereum and private blockchain networks according to
@@ -61,13 +63,10 @@
                       <a
                         class="btn btn-md btn-hack-learn"
                         href="/dlt-blockchain-development-services/blockchain-software-development/"
-                        >Learn more ...</a
-                      >
+                      >Learn more ...</a>
                     </div>
                     <div class="slider-slide slider-slide-2">
-                      <h1>
-                        Smart Contracts Development and Audit
-                      </h1>
+                      <h1>Smart Contracts Development and Audit</h1>
                       <p>
                         We develop and audit smart contracts which are cost-saving, verifiable,
                         self-executable and auto-enforcing. If well implemented they can generate
@@ -76,13 +75,10 @@
                       <a
                         class="btn btn-md btn-hack-learn"
                         href="<?php get_site_url() ?>/dlt-blockchain-development-services/smart-contracts-development/"
-                        >Learn more ...</a
-                      >
+                      >Learn more ...</a>
                     </div>
                     <div class="slider-slide slider-slide-3">
-                      <h1>
-                        Crowdsale Services
-                      </h1>
+                      <h1>Crowdsale Services</h1>
                       <p>
                         We offer our blockchain and smart contract development expertise building
                         the technical part of your ICOs/STOs to help you fundraise your business
@@ -91,13 +87,10 @@
                       <a
                         class="btn btn-md btn-hack-learn"
                         href="<?php get_site_url() ?>/dlt-blockchain-development-services/ico-initial-coin-offering/"
-                        >Learn more ...</a
-                      >
+                      >Learn more ...</a>
                     </div>
                     <div class="slider-slide slider-slide-4">
-                      <h1>
-                        Consulting
-                      </h1>
+                      <h1>Consulting</h1>
                       <p>
                         Our consulting services are helping projects define their decentralized
                         application or blockchain architecture, smart contracts utilization,
@@ -107,8 +100,7 @@
                       <a
                         class="btn btn-md btn-hack-learn"
                         href="<?php get_site_url() ?>/dlt-blockchain-development-services/blockchain-consulting/"
-                        >Learn more ...</a
-                      >
+                      >Learn more ...</a>
                     </div>
                   </div>
 
@@ -129,6 +121,10 @@
 </template>
 
 <script>
-import hackSvg from './../../assets/hack.svg'
-export default {}
+import hackSvg from "./../../assets/hack.svg";
+export default {
+  data() {
+    return { hackSvg };
+  }
+};
 </script>
