@@ -6,5 +6,9 @@ module.exports = {
     "no-tabs": "error",
     "eol-last": "error",
     "indent": ["error", 2]
+  },
+  env: {
+    "browser": true,
+    "node": true
   }
 };
