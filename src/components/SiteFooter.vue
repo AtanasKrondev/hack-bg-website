@@ -3,7 +3,7 @@
     <b-container>
       <hr />
       <b-row>
-        <b-col class="footer-col" lg>
+        <b-col lg>
           <img src="@/assets/images/hack-logo.png" alt="hack-logo" width="100%" />
           <ul class="flex-wrap">
             <li>
@@ -47,7 +47,7 @@
             </li>
           </ul>
         </b-col>
-        <b-col class="footer-col" lg>
+        <b-col lg>
           <h2 class="h6 mt-4 mb-2">Services</h2>
           <ul>
             <li>
@@ -88,7 +88,7 @@
             </li>
           </ul>
         </b-col>
-        <b-col class="footer-col" lg>
+        <b-col lg>
           <h2 class="h6 mt-4 mb-2">Products</h2>
           <ul>
             <li>
@@ -99,7 +99,7 @@
             </li>
           </ul>
         </b-col>
-        <b-col class="footer-col" lg>
+        <b-col lg>
           <h2 class="h6 mt-4 mb-2">Company</h2>
           <ul>
             <li>
@@ -128,11 +128,14 @@
         </b-col>
       </b-row>
     </b-container>
-    <p class="text-center">© <a href="https://hack.bg/">hack.bg</a> Ltd - All rights reserved, 2016 - 2020</p>
+    <p class="text-center">
+      ©
+      <a href="https://hack.bg/">hack.bg</a> Ltd - All rights reserved, 2016 - 2020
+    </p>
     <!-- <p class="text-center">
       Open source -
       <a href="https://hack.bg/">hack</a>
-    </p> -->
+    </p>-->
   </footer>
 </template>
 

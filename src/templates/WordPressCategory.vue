@@ -13,6 +13,7 @@
         </b-col>
       </transition>
     </b-row>
+    <NewsletterForm />
   </Layout>
 </template>
 
@@ -54,11 +55,13 @@ query Category($path: String, $page: Int) {
 <script>
 import Post from '~/components/Post.vue'
 import Pagination from '~/components/Pagination.vue'
+import NewsletterForm from '~/components/NewsletterForm.vue'
 
 export default {
   components: {
     Post,
     Pagination,
+    NewsletterForm
   },
   metaInfo() {
     return {

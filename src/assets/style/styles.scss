@@ -387,18 +387,6 @@ a.nav-top-a {
     transition: border .2s linear,color .2s linear;
   }
 
-  .button__big:hover {
-    background-color: #9013FE;
-  }
-
-  input#mce-EMAIL.mce_inline_error {
-    color: red;
-  }
-
-  div.mce_inline_error {
-    display: none !important;
-  }
-
   .button__big {
     min-width: 210px;
     background-color: #9013FE;
@@ -430,30 +418,6 @@ a.nav-top-a {
     align-items: center;
     text-align: center;
     font-size: 17px;
-  }
-}
-
-@media (min-width: 720px) {
-  .contact--form {
-    .button__big {
-      height: 50px;
-    }
-
-    #mc_embed_signup_scroll {
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-align: end;
-      -ms-flex-align: end;
-      align-items: flex-end;
-      position: relative;
-      width: 100%;
-    }
-  }
-
-  #mc_embed_signup_scroll {
-    position: relative;
-    width: 100%;
   }
 }
 

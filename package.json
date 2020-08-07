@@ -17,7 +17,9 @@
     "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "p-map": "^3.0.0",
+    "sharp": "^0.25.4",
     "vue": "^2.6.10",
+    "vue-mailchimp-subscribe": "^1.1.0",
     "vue2-transitions": "^0.3.0"
   },
   "devDependencies": {

@@ -2,3 +2,5 @@ node_modules
 .cache
 dist
 src/.temp
+scripts/deploy-key
+package-lock.json
