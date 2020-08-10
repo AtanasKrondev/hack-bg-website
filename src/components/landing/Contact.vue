@@ -1,6 +1,7 @@
 <template>
-  <article class="mt-5 mb-5">
-    <section id="contact">
+  <section id="contact">
+    <div class="empty-space"></div>
+    <article class="mt-5 mb-5">
       <div class="container">
         <div class="jumbotron jumbotron-fluid no-bg">
           <div class="container">
@@ -47,16 +48,34 @@
             ></textarea>
           </div>
           <div class="form-group text-center">
-            <button class="btn btn-hack-purple" type="submit">
-              Send
-            </button>
+            <button class="btn btn-hack-purple" type="submit">Send</button>
           </div>
         </form>
       </div>
-    </section>
-  </article>
+    </article>
+  </section>
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
+
+<style scoped>
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+</style>

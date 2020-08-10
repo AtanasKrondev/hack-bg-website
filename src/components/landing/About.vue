@@ -1,5 +1,6 @@
 <template>
   <section id="about">
+    <div class="empty-space"></div>
     <article class="mt-5 mb-5">
       <div class="container">
         <div class="jumbotron jumbotron-fluid no-bg">
@@ -47,14 +48,14 @@
                 <ul class="timeline">
                   <li class="timeline-line"></li>
                   <li class="timeline-group">
-                    <a href="#contact" class="btn hack-purple"
-                      ><i class="fa fa-envelope"></i> Contact us</a
-                    >
+                    <a href="#contact" class="btn hack-purple">
+                      <i class="fa fa-envelope"></i> Contact us
+                    </a>
                   </li>
                   <li class="timeline-group">
-                    <a href="#contact" class="btn hack-purple"
-                      ><i class="fa fa-calendar-check"></i> Schedule a meeting</a
-                    >
+                    <a href="#contact" class="btn hack-purple">
+                      <i class="fa fa-calendar-check"></i> Schedule a meeting
+                    </a>
                   </li>
                 </ul>
                 <h3 class="page-title text-center mob-rem">We put our skills into action</h3>
@@ -177,9 +178,7 @@
                           Our partnership doesn't end once your product, whether it is a website,
                           mobile app, software or blockchain solution, goes live.
                         </p>
-                        <p>
-                          We're here to support you with technical, marketing, and strategy support.
-                        </p>
+                        <p>We're here to support you with technical, marketing, and strategy support.</p>
                       </div>
                     </div>
                   </li>
@@ -222,5 +221,5 @@
 </template>
 
 <script>
-export default {}
+export default {};
 </script>

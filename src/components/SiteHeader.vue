@@ -9,7 +9,7 @@
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="ml-auto align-middle">
-          <b-nav-item to="/" exact-active-class="active" class="text-primary">Home</b-nav-item>
+          <b-nav-item to="/#home" exact-active-class="active" class="text-primary">Home</b-nav-item>
           <b-nav-item-dropdown text="Services" class="dropper" right>
             <b-dropdown-item href="#">Blockchain Development</b-dropdown-item>
             <b-dropdown-item href="#">Smart Contracts Development</b-dropdown-item>
@@ -17,11 +17,11 @@
             <b-dropdown-item href="#">Consulting</b-dropdown-item>
             <b-dropdown-item href="#">Decentralized application (dApp) development</b-dropdown-item>
             <b-dropdown-divider></b-dropdown-divider>
-            <b-dropdown-item href="#">All services</b-dropdown-item>
+            <b-dropdown-item href="/#services">All services</b-dropdown-item>
           </b-nav-item-dropdown>
-          <b-nav-item to="/about" active-class="active" class="text-primary">About us</b-nav-item>
+          <b-nav-item to="/#about" active-class="active" class="text-primary">About us</b-nav-item>
           <b-nav-item to="/blog" active-class="active">Blog</b-nav-item>
-          <b-nav-item to="/contact" active-class="active">
+          <b-nav-item to="/#contact" active-class="active">
             <span class="contact">Get in touch</span>
           </b-nav-item>
         </b-navbar-nav>

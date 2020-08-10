@@ -1,0 +1,319 @@
+{
+    "projects": [
+        {
+            "title": "ICO Token dashboard",
+            "features": [
+                "User roles",
+                "User management",
+                "Web3 Integration",
+                "Bounty program",
+                "Affiliate program",
+                "Social media integration",
+                "Administrative section",
+                "KYC verification",
+                "Payment Gateway Integration"
+            ],
+            "technologies": [
+                {
+                    "title": "Ethereum Blockchain",
+                    "icon": "fab fa-2x fa-ethereum"
+                },
+                {
+                    "title": "NodeJS",
+                    "icon": "fab fa-2x fa-node-js"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "Angular",
+                    "icon": "fab fa-2x fa-angular"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "eCommerce - Administration CMS",
+            "features": [
+                "User roles",
+                "User management",
+                "WooCommerce API Integration",
+                "OpenCart Custom API + Integration",
+                "Invoicing engine",
+                "Courier (Logistics) API Integration"
+            ],
+            "technologies": [
+                {
+                    "title": "Javascript",
+                    "icon": "fab fa-2x fa-js"
+                },
+                {
+                    "title": "PHP",
+                    "icon": "fab fa-2x fa-php"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "eLearning platform",
+            "features": [
+                "User roles",
+                "User management",
+                "Course enrollments",
+                "Certificates management",
+                "Custom HTML5 streaming video player"
+            ],
+            "technologies": [
+                {
+                    "title": "Javascript",
+                    "icon": "fab fa-2x fa-js"
+                },
+                {
+                    "title": "PHP",
+                    "icon": "fab fa-2x fa-php"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "Retail solution platform",
+            "features": [
+                "User roles",
+                "User management",
+                "Retail turnover",
+                "Quality rating system",
+                "Google maps integration",
+                "Web & mobile"
+            ],
+            "technologies": [
+                {
+                    "title": "Android",
+                    "icon": "fab fa-2x fa-android"
+                },
+                {
+                    "title": "Javascript",
+                    "icon": "fab fa-2x fa-js"
+                },
+                {
+                    "title": "PHP",
+                    "icon": "fab fa-2x fa-php"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "Blockchain based decentralized P2P lending system",
+            "features": [
+                "Smart Contracts",
+                "Intrest management",
+                "Lending system",
+                "Web3 integration"
+            ],
+            "technologies": [
+                {
+                    "title": "Ethereum Blockchain",
+                    "icon": "fab fa-2x fa-ethereum"
+                },
+                {
+                    "title": "NodeJS",
+                    "icon": "fab fa-2x fa-node-js"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "eLearning system",
+            "features": [
+                "User roles",
+                "User management",
+                "Custom admin courses and test creation functionality",
+                "Statistics export",
+                "Cretfication system",
+                "Course reviewing and rating"
+            ],
+            "technologies": [
+                {
+                    "title": "Javascript",
+                    "icon": "fab fa-2x fa-js"
+                },
+                {
+                    "title": "PHP",
+                    "icon": "fab fa-2x fa-php"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "Blockchain based decentralized DNS Service",
+            "features": [
+                "Smart Contracts",
+                "DNS functionality",
+                "Web3 integration"
+            ],
+            "technologies": [
+                {
+                    "title": "Ethereum Blockchain",
+                    "icon": "fab fa-2x fa-ethereum"
+                },
+                {
+                    "title": "NodeJS",
+                    "icon": "fab fa-2x fa-node-js"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "eLearning system",
+            "features": [
+                "User roles",
+                "User management",
+                "Custom admin courses and test creation functionality",
+                "Statistics export",
+                "Payment Gateway Integration",
+                "Course reviewing and rating"
+            ],
+            "technologies": [
+                {
+                    "title": "NodeJS",
+                    "icon": "fab fa-2x fa-node-js"
+                },
+                {
+                    "title": "Angular",
+                    "icon": "fab fa-2x fa-angular"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "eCommerce Chatbot",
+            "features": [
+                "WooCommerce orders confirmation",
+                "Custom orders from chat",
+                "Parcel tracking",
+                "Viber Integration"
+            ],
+            "technologies": [
+                {
+                    "title": "NodeJS",
+                    "icon": "fab fa-2x fa-node-js"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        },
+        {
+            "title": "Museums iOS App",
+            "features": [
+                "Custom API server",
+                "iBeacon technology implementation",
+                "Rating system",
+                "User management system"
+            ],
+            "technologies": [
+                {
+                    "title": "NodeJS",
+                    "icon": "fab fa-2x fa-node-js"
+                },
+                {
+                    "title": "Database",
+                    "icon": "fas fa-2x fa-database"
+                },
+                {
+                    "title": "HTML5",
+                    "icon": "fab fa-2x fa-html5"
+                },
+                {
+                    "title": "CSS3",
+                    "icon": "fab fa-2x fa-css3"
+                }
+            ]
+        }
+    ]
+}

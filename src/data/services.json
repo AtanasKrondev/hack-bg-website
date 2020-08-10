@@ -1,0 +1,28 @@
+{
+    "services": [
+        {
+            "btnTitle": "Blockchain Development",
+            "title": "Private and Public Blockchain Development",
+            "description": "Implement cryptography-based technologies to store immutable data. Public shared ledgers like Ethereum and private blockchain networks according to your business needs.",
+            "linkUrl": "/dlt-blockchain-development-services/blockchain-software-development/"
+        },
+        {
+            "btnTitle": "Smart Contracts Development",
+            "title": "Smart Contracts Development and Audit",
+            "description": "We develop and audit smart contracts which are cost-saving, verifiable, self-executable and auto-enforcing. If well implemented they can generate savings due to speed of execution and reducing middlemen cost.",
+            "linkUrl": "/dlt-blockchain-development-services/smart-contracts-development/"
+        },
+        {
+            "btnTitle": "Crowdsale Services",
+            "title": "Crowdsale Services",
+            "description": "e offer our blockchain and smart contract development expertise building the technical part of your ICOs/STOs to help you fundraise your business endeavor.",
+            "linkUrl": "/dlt-blockchain-development-services/ico-initial-coin-offering/"
+        },
+        {
+            "btnTitle": "Blockchain Consulting",
+            "title": "Consulting",
+            "description": "Our consulting services are helping projects define their decentralized application or blockchain architecture, smart contracts utilization, crystallize the use-case idea they have, and advise on the token economy (tokenomy) behind their product.",
+            "linkUrl": "/dlt-blockchain-development-services/blockchain-consulting/"
+        }
+    ]
+}
