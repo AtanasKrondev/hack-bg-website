@@ -1,7 +1,7 @@
 <template>
   <mailchimp-subscribe :url="url" :user-id="userId" :list-id="listId">
     <template v-slot="{ subscribe, setEmail, error, success, loading }">
-      <b-row class="mt-5 p-2 newsletter">
+      <b-row class="mt-5 p-2 newsletter-form">
         <b-col cols="12" sm="3" class="img-container">
           <img src="@/assets/images/hack_newsletter.png" alt="newsletter" width="90%" />
         </b-col>
@@ -84,7 +84,7 @@ export default {
 </script>
 
 <style scoped>
-.newsletter {
+.newsletter-form {
   background-color: #ffffff;
   -webkit-box-shadow: 0 2px 40px 0 rgba(16, 16, 18, 0.06);
   box-shadow: 0 2px 40px 0 rgba(16, 16, 18, 0.06);
