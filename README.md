@@ -1,10 +1,13 @@
 <h1 align="center" style="margin-top: 1em; margin-bottom: 3em;">
-  <p><a href="https://hack.bg"><img alt="hack logo" src="./hack.png" alt="hack.bg" width="125"></a></p>
-  <p>👋 Welcome to hack.bg!</p>
+  <p><a href="https://hack.bg"><img alt="hack logo" src="./src/assets/images/hack-logo.png" alt="hack.bg"></a></p>
 </h1>
 
-<br>
+# 👋 Welcome to hack.bg!
 
+
+[![Build Status](https://travis-ci.com/hackbg/hack-bg-website.svg?branch=develop)](https://travis-ci.com/hackbg/hack-bg-website)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/hackbg/hack-bg-website.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hackbg/hack-bg-website/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/hackbg/hack-bg-website.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hackbg/hack-bg-website/alerts/)
 
 ## Build setup
 
